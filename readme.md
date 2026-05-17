@@ -1,4 +1,4 @@
-# 🤖 MARK XXXIX (39)
+# 🤖 EVELIA (39)
 ### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
 
 > 📺 **[Watch the full setup video on YouTube](https://youtu.be/ej1f5OE3SNQ?si=lCxDhJix9ungq1Ry)**
@@ -9,7 +9,7 @@ A real-time voice AI that can hear, see, understand, and control your computer �
 
 ## ✨ Overview
 
-MARK XXXIX represents the pinnacle of the Jarvis series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
+EVELIA represents the pinnacle of the EVELIA series, evolving into a more flexible and robust system. It bridges the gap between the operating system and human intent. Through natural dialogue, Mark 39 analyzes your screen, processes uploaded documents, and executes complex workflows with a brand-new, adaptive interface.
 
 It's not just an assistant — it's an extension of your digital life.
 
@@ -72,7 +72,7 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 
 ## 👤 Connect with the Creator
 
-Engineered by a developer building a real-world JARVIS-style assistant.
+Engineered by a developer building a real-world EVELIA-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
 | Platform | Link |

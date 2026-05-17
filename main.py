@@ -9,7 +9,7 @@ from pathlib import Path
 import sounddevice as sd
 from google import genai
 from google.genai import types
-from ui import JarvisUI
+from ui import EVELIAUIUI
 from memory.memory_manager import (
     load_memory, update_memory, format_memory_for_prompt,
 )
@@ -58,7 +58,7 @@ def _load_system_prompt() -> str:
         return PROMPT_PATH.read_text(encoding="utf-8")
     except Exception:
         return (
-            "You are JARVIS, Tony Stark's AI assistant. "
+            "You are EVELIA, un asistente personal inteligente. "
             "Be concise, direct, and always use the provided tools to complete tasks. "
             "Never simulate or guess results — always call the appropriate tool."
         )
